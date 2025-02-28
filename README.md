@@ -2,6 +2,8 @@
 A system for creating multiple Zones to check if the player has specific items.
 
 **Installation**
+
+
 Go to qb-smallresources\server\logs.lua
 
 ```
