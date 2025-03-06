@@ -10,7 +10,7 @@ Go to qb-smallresources\server\logs.lua
 **Be Ware Dont Replace**
 local Webhooks = {
 --Add This Only
-    ['CA_LOG'] = '',
+    ['CA_LOG'] = 'Put Your Webhook here',
 }
 
 ```
